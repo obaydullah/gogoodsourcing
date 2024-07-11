@@ -125,7 +125,7 @@ span.menubar.middle.hidden {
 }
 .logo {
   position: absolute;
-  top: 5rem;
+  top: 3rem;
   left: 50%;
   transform: translateX(-50%);
   z-index: 11;
