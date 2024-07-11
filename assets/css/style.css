@@ -123,6 +123,14 @@ span.menubar.middle.hidden {
   width: 65rem;
   height: auto;
 }
+.logo {
+  position: absolute;
+  top: 5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 11;
+}
+
 .header__area .talk__to--us {
   font-size: 2rem;
   color: #fff;
